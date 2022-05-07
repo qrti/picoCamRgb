@@ -13,7 +13,7 @@ Three big legends and their tiny likenesses
 [-> views](#views)  
 [-> source](source)
 
-Project with monochrome OLED  
+project with monochrome OLED  
 https://github.com/qrti/picoCam
 
 <br>
